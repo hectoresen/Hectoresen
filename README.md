@@ -4,7 +4,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Hectoresen&show_icons=true&title_color=ffffff&icon_color=ff0000&text_color=ffffff&bg_color=000000"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hectoresen&layout=compact&show_icons=true&title_color=ffffff&icon_color=ff0000&text_color=ffffff&bg_color=000000"/>
 
-## Technologies
+## I usually use...
 
 <p align="center"> 
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" />
@@ -15,6 +15,10 @@
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/angular.svg" />
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/react.svg" />
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" />
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/npm.svg" />
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio.svg" />
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/xcode.svg" />
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/powershell.svg" />
 </p>
 
 <!--
