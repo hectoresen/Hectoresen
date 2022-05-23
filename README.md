@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Welcome to my Github profile! Here are some statistics on the total of my repositories: 
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Hectoresen&show_icons=true&title_color=ffffff&icon_color=ff0000&text_color=ffffff&bg_color=000000"/>
