@@ -4,7 +4,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Hectoresen&show_icons=true&title_color=ffffff&icon_color=ff0000&text_color=ffffff&bg_color=000000"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hectoresen&layout=compact&show_icons=true&title_color=ffffff&icon_color=ff0000&text_color=ffffff&bg_color=000000"/>
 
-## I usually use...
+## I usually use these tools / technologies and many more!
 
 <p align="center"> 
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" />
