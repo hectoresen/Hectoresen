@@ -26,6 +26,11 @@
 
 </p>
 
+## LinkedIn
+<a href="https://www.linkedin.com/in/hector-escolante-enriquez" target="_blank">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="LinkedIn" />
+</a>
+
 ## School Git
 
 https://gitlab.com/Hectoresen
