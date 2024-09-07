@@ -5,7 +5,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Hector Escolante, Backend Engineer</h1>
 
 <h2 align="center">Welcome to my GitHub profile! Here are some statistics:</h2>  
-Keep in mind that I not only work with GitHub, 80% of my work is in my company's private repositories 😇
+<p align="center">Keep in mind that I not only work with GitHub, 80% of my work is in my company's private repositories 😇</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hectoresen&show_icons=true&title_color=ffffff&icon_color=ff0000&text_color=ffffff&bg_color=000000"/>
