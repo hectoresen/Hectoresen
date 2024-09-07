@@ -26,10 +26,17 @@ Keep in mind that I not only work with GitHub, 80% of my work is in my company's
   </a>
 </p>
 
-## LinkedIn
+## 📱 Here I leave you some social networks!
+
 <a href="https://www.linkedin.com/in/hector-escolante-enriquez" target="_blank">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="LinkedIn" />
 </a>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hector-escolante-enriquez" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
 ## School Git
 
