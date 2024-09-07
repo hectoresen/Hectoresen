@@ -5,7 +5,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Hectoresen&show_icons=true&title_color=ffffff&icon_color=ff0000&text_color=ffffff&bg_color=000000"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hectoresen&layout=compact&show_icons=true&title_color=ffffff&icon_color=ff0000&text_color=ffffff&bg_color=000000"/>
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=hectoresen)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=hectoresen&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## I usually use these tools / technologies and many more!
