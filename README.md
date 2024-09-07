@@ -13,8 +13,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hectoresen&layout=compact&show_icons=true&title_color=ffffff&icon_color=ff0000&text_color=ffffff&bg_color=000000"/>
 </div>
 
-<h2 align="center">😏 Here I leave you some trophies! They aren't much but they decorate luxuriously!</h2>
-[![Trophies](https://github-profile-trophy.vercel.app/?username=hectoresen&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+## 😏 Here I leave you some trophies! They aren't much but they decorate luxuriously!
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=hectoresen&theme=onedark)
+
 
 
 <h2 align="center"> 🔧 Usually use these tools / platforms and many more! </h2>
