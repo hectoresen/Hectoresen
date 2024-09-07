@@ -13,7 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hectoresen&layout=compact&show_icons=true&title_color=ffffff&icon_color=ff0000&text_color=ffffff&bg_color=000000"/>
 </div>
 
-## 😏 Here I leave you some trophies! They aren't much but they decorate luxuriously!
+<h2 align="center"> 😏 Here I leave you some trophies! They aren't much but they decorate luxuriously! </h2> 
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=hectoresen&theme=onedark)
 
