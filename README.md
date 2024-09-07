@@ -11,7 +11,6 @@ Keep in mind that I not only work with GitHub, 80% of my work is in my company's
 [![Trophies](https://github-profile-trophy.vercel.app/?username=hectoresen&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-
 ## 🔧 Usually use these tools / platforms and many more!
 <p align="center">
   <a href="https://skillicons.dev">
@@ -28,13 +27,11 @@ Keep in mind that I not only work with GitHub, 80% of my work is in my company's
 
 ## 📱 Here I leave you some social networks!
 
-<a href="https://www.linkedin.com/in/hector-escolante-enriquez" target="_blank">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="LinkedIn" />
-</a>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/hector-escolante-enriquez" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://www.linkedin.com/in/hector-escolante-enriquez">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    <br>
+    <span>LinkedIn Profile</span>
   </a>
 </p>
 
