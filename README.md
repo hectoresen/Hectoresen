@@ -13,25 +13,25 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hectoresen&layout=compact&show_icons=true&title_color=ffffff&icon_color=ff0000&text_color=ffffff&bg_color=000000"/>
 </div>
 
-## 😏 Here I leave you some trophies! They aren't much but they decorate luxuriously!
+<h2 align="center">😏 Here I leave you some trophies! They aren't much but they decorate luxuriously!</h2>
 [![Trophies](https://github-profile-trophy.vercel.app/?username=hectoresen&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-## 🔧 Usually use these tools / platforms and many more!
+<h2 align="center"> 🔧 Usually use these tools / platforms and many more! </h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,aws,azure,gcp,firebase,netlify,bash,bitbucket,github,gitlab,npm,postman,replit,ubuntu,vscode" />
   </a>
 </p>
 
-## 🧑‍💻 Some of the technologies I know and work with
+<h2 align="center"> 🧑‍💻 Some of the technologies I know and work with </h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=sass,html,css,discordjs,js,ts,jest,jenkins,md,mongodb,mysql,nestjs,nodejs,php,postgres,react,redis,redux,sqlite,sentry,symfony,terraform,webpack,wordpress,yarn" />
   </a>
 </p>
 
-## 📱 Here I leave you some social networks!
+<h2 align="center"> 📱 Here I leave you some social networks! </h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hector-escolante-enriquez">
@@ -41,7 +41,7 @@
   </a>
 </p>
 
-## 💫 I leave here the link to my first Git repository from when I started programming in school. It's nothing impressive, but it brings back a lot of memories!
+<h2 align="center"> 💫 I leave here the link to my first Git repository from when I started programming in school. It's nothing impressive, but it brings back a lot of memories! </h2>
 Don't judge me by the content, I was a newbie but very eager! 😅
 
 https://gitlab.com/Hectoresen
