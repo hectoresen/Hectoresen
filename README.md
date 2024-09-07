@@ -1,5 +1,5 @@
-### 👋 Welcome to my Github profile! Here are some statistics on the total of my repositories: 
-
+### 👋 Welcome to my GitHub profile! Here are some statistics: 
+Keep in mind that I not only work with GitHub, 80% of my work is in my company's private repositories 😇
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hectoresen&show_icons=true&title_color=ffffff&icon_color=ff0000&text_color=ffffff&bg_color=000000"/>
