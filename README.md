@@ -25,11 +25,10 @@
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/aws.svg" />
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/npm.svg" />
 </p>
-
-
 ```
-[![trophy](https://github-profile-trophy.vercel.app/?username=hectoresen&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
 ```
+
 
 ## LinkedIn
 <a href="https://www.linkedin.com/in/hector-escolante-enriquez" target="_blank">
