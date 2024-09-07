@@ -46,9 +46,13 @@
 </p>
 
 <h2 align="center"> 💫 I leave here the link to my first Git repository from when I started programming in school. It's nothing impressive, but it brings back a lot of memories! </h2>
-Don't judge me by the content, I was a newbie but very eager! 😅
 
-https://gitlab.com/Hectoresen
+<p align="center">
+  Don't judge me by the content, I was a newbie but very eager! 😅
+  <br>
+  <a href="https://gitlab.com/Hectoresen">https://gitlab.com/Hectoresen</a>
+</p>
+
 
 
 <!--
