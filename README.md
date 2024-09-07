@@ -17,10 +17,9 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hectoresen&theme=onedark" alt="Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=hectoresen&theme=onedark&column=3&margin-w=15&margin-h=15" alt="Trophies"/>
   </a>
 </p>
-
 
 <h2 align="center"> 🔧 Usually use these tools / platforms and many more! </h2>
 <p align="center">
