@@ -4,7 +4,7 @@
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Hector Escolante, Backend Engineer</h1>
 
-# Welcome to my GitHub profile! Here are some statistics: 
+<h2 align="center">Welcome to my GitHub profile! Here are some statistics:</h2>  
 Keep in mind that I not only work with GitHub, 80% of my work is in my company's private repositories 😇
 
 <div align="center">
