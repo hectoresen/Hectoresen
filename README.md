@@ -35,7 +35,8 @@ Keep in mind that I not only work with GitHub, 80% of my work is in my company's
   </a>
 </p>
 
-## School Git
+## 💫 I leave here the link to my first Git repository from when I started programming in school. It's nothing impressive, but it brings back a lot of memories!
+Don't judge me by the content, I was a newbie but very eager! 😅
 
 https://gitlab.com/Hectoresen
 
