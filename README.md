@@ -29,6 +29,11 @@
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/npm.svg" />
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,aws,azure,bash,bitbucket,discordjs,github,gitlab,npm,postman,replit,ubuntu,vscode" />
+  </a>
+</p>
 
 ## LinkedIn
 <a href="https://www.linkedin.com/in/hector-escolante-enriquez" target="_blank">
