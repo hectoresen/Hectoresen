@@ -12,7 +12,14 @@
 ## 🔧 Usually use these tools / platforms and many more!
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,aws,azure,bash,bitbucket,discordjs,github,gitlab,npm,postman,replit,ubuntu,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,docker,aws,azure,gcp,firebase,netlify,bash,bitbucket,github,gitlab,npm,postman,replit,ubuntu,vscode" />
+  </a>
+</p>
+
+## 🧑‍💻 Some of the technologies I know and work with
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sass,html,css,discordjs,js,ts,jest,jenkins,md,mongodb,mysql,nestjs,nodejs,php,postgres,react,redis,redux,sqlite,sentry,symfony,terraform,webpack,wordpress,yarn" />
   </a>
 </p>
 
