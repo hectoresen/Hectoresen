@@ -15,8 +15,6 @@
 
 <h2 align="center"> 😏 Here I leave you some trophies! They aren't much but they decorate luxuriously! </h2> 
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=hectoresen&theme=onedark)
-
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=hectoresen&theme=onedark" alt="Trophies"/>
