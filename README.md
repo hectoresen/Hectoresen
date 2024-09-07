@@ -3,9 +3,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Hectoresen&show_icons=true&title_color=ffffff&icon_color=ff0000&text_color=ffffff&bg_color=000000"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hectoresen&layout=compact&show_icons=true&title_color=ffffff&icon_color=ff0000&text_color=ffffff&bg_color=000000"/>
-<div>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
+
 
 ## I usually use these tools / technologies and many more!
 
@@ -26,8 +24,12 @@
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/docker.svg" />
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/aws.svg" />
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/npm.svg" />
-
 </p>
+
+
+```
+[![trophy](https://github-profile-trophy.vercel.app/?username=hectoresen&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+```
 
 ## LinkedIn
 <a href="https://www.linkedin.com/in/hector-escolante-enriquez" target="_blank">
