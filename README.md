@@ -14,9 +14,9 @@
 </div>
 
 <h2 align="center"> 😏 Here I leave you some trophies! They aren't much but they decorate luxuriously! </h2> 
-<div align="center">
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=hectoresen&theme=onedark)
-</div>
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=hectoresen&theme=onedark)
+
 
 
 
