@@ -1,4 +1,4 @@
-# Hi, I'm Peter 👋
+## Hi, I'm hector 👋
 
 📍 **Galicia ↔ Spain** | 🤖 **Systems-Oriented Backend Engineer** | 🚀 **Always building, usually something new.**
 
@@ -16,7 +16,7 @@
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-## Current public projects
+### Current public projects
 - 🎧 **[Nexum](https://github.com/hectoresen/nexum_mvp)** - A minimal, self-hosted voice and chat communication system
 - 📋 **[GTDDESK - Getting Things Done](https://github.com/hectoresen/gtddesk)** - A clean, distraction-free to-do list built for seamless sharing
 - 🤼‍♂️ **[Bjj WebApp](https://github.com/hectoresen/bjj_webapp)** - A social network for jiu-jitsu enthusiasts: share and save videos, connect with friends, and explore curated content—all by invitation.
