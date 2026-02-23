@@ -1,54 +1,20 @@
-<p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
-</p>
-<hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Hector Escolante, Backend Engineer</h1>
+📍 **Galicia ↔ Spain** | 🤖 **Systems-Oriented Backend Engineer** | 🚀 **Always building, usually something new.**
 
-<h2 align="center">Welcome to my GitHub profile! Here are some statistics:</h2>  
-<p align="center">Keep in mind that I not only work with GitHub, 80% of my work is in my company's private repositories 😇</p>
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
+![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
+![Linux](https://img.shields.io/badge/-Ubuntu-FA7343?style=flat-square&logo=ubuntu&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-Cloud-0078D4?style=flat-square&logo=azure&logoColor=white)
+![Aws](https://img.shields.io/badge/AWS-Cloud-orange?style=flat-square&logo=amazonaws&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-EA2845?style=flat-square&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![CosmosDB](https://img.shields.io/badge/CosmosDB-0078D4?style=flat-square&logo=azure&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hectoresen&show_icons=true&title_color=ffffff&icon_color=ff0000&text_color=ffffff&bg_color=000000"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hectoresen&layout=compact&show_icons=true&title_color=ffffff&icon_color=ff0000&text_color=ffffff&bg_color=000000"/>
-</div>
-
-<h2 align="center"> 😏 Here I leave you some trophies! They aren't much but they decorate luxuriously! </h2> 
-
-<p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=hectoresen">
-    <img src="https://github-profile-trophy.vercel.app/?username=hectoresen&theme=onedark&column=3&margin-w=15&margin-h=15" alt="Trophies"/>
-  </a>
-</p>
-
-<h2 align="center"> 🔧 Usually use these tools / platforms and many more! </h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,aws,azure,gcp,firebase,netlify,bash,bitbucket,github,gitlab,npm,postman,replit,ubuntu,vscode" />
-  </a>
-</p>
-
-<h2 align="center"> 🧑‍💻 Some of the technologies I know and work with </h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sass,html,css,discordjs,js,ts,jest,jenkins,md,mongodb,mysql,nestjs,nodejs,php,postgres,react,redis,redux,sqlite,sentry,symfony,terraform,webpack,wordpress,yarn" />
-  </a>
-</p>
-
-<h2 align="center"> 📱 Here I leave you some social networks! </h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/hector-escolante-enriquez">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-    <br>
-    <span>LinkedIn Profile</span>
-  </a>
-</p>
-
-<h2 align="center"> 💫 I leave here the link to my first Git repository from when I started programming in school. It's nothing impressive, but it brings back a lot of memories! </h2>
-
-<p align="center">
-  Don't judge me by the content, I was a newbie but very eager! 😅
-  <br>
-  <a href="https://gitlab.com/Hectoresen">https://gitlab.com/Hectoresen</a>
-</p>
+## Current public projects
+- 🎧 **[Nexum](https://github.com/hectoresen/nexum_mvp)** - A minimal, self-hosted voice and chat communication system
+- 📋 **[GTDDESK - Getting Things Done](https://github.com/hectoresen/gtddesk)** - A clean, distraction-free to-do list built for seamless sharing
+- 🤼‍♂️ **[Bjj WebApp](https://github.com/hectoresen/bjj_webapp)** - A social network for jiu-jitsu enthusiasts: share and save videos, connect with friends, and explore curated content—all by invitation.
