@@ -20,3 +20,4 @@
 - 🎧 **[Nexum](https://github.com/hectoresen/nexum_mvp)** - A minimal, self-hosted voice and chat communication system
 - 📋 **[GTDDESK - Getting Things Done](https://github.com/hectoresen/gtddesk)** - A clean, distraction-free to-do list built for seamless sharing
 - 🤼‍♂️ **[Bjj WebApp](https://github.com/hectoresen/bjj_webapp)** - A social network for jiu-jitsu enthusiasts: share and save videos, connect with friends, and explore curated content—all by invitation.
+- 🏆 **[ArenaCup26](https://github.com/hectoresen/ArenaCup26)** - Plataforma para predecir los 104 partidos del Mundial, ganar puntos según los aciertos, escalar posiciones en un ranking en tiempo real e invitar a amigos para competir uno contra uno. No es un servicio de apuestas: no hay dinero ni premios materiales — es un juego de predicciones para que el torneo se vea con más emoción y con tus amigos.
